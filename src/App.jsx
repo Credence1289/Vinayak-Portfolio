@@ -425,7 +425,7 @@ export default function App() {
           <FadeUp>
             <Label text="Background" />
             <h2 style={{ fontSize:"clamp(28px,4vw,42px)",fontWeight:700,letterSpacing:"-0.03em",marginBottom:56 }}>
-              Experience & education
+              Experience
             </h2>
           </FadeUp>
 
